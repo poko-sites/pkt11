@@ -1,1 +1,5 @@
-
+siteName: "pkt11"
+productionUrl: https://pkt11.pages.dev
+languages:
+  - code: en
+    status: published
